@@ -23,7 +23,7 @@ WS_URL = "wss://socket.india.delta.exchange"
 
 # ================= CONFIG =================
 SYMBOLS = ["GOOGLXUSD", "AMZNXUSD", "TSLAXUSD", "METAXUSD",
-           "NVDAXUSD", "AAPLXUSD","PAXGUSD","SLVONUSD"]
+           "NVDAXUSD", "AAPLXUSD","PAXGUSD","SLVONUSD","BTCUSD","ETHINR"]
 
 LOT_SIZE = {
     "GOOGLXUSD": 30,
@@ -33,7 +33,9 @@ LOT_SIZE = {
     "NVDAXUSD": 50,
     "AAPLXUSD": 35,
     "PAXGUSD": 20,
-    "SLVONUSD": 10
+    "SLVONUSD": 10,
+    "BTCUSD": 1,
+    "ETHINR": 4
 }
 
 DROP_PERCENT = 3
