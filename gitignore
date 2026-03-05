@@ -1,0 +1,20 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

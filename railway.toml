@@ -1,0 +1,3 @@
+[deploy]
+startCommand = "python src/bot.py"
+restartPolicyType = "always"
