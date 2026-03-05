@@ -35,7 +35,7 @@ LOT_SIZE = {
     "PAXGUSD": 20,
     "SLVONUSD": 10,
     "BTCUSD": 1,
-    "ETHINR": 4
+    "ETHUSD": 4
 }
 
 DROP_PERCENT = 3
